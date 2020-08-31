@@ -29,7 +29,7 @@
 
 O Shimmer é um efeito que que substitui o spinner durante o carregamento da página, melhorando a experiência do usuário e tornando o layout mais agradável. 
 
-**Demo disponível em: **https://flamboyant-bassi-4e64e0.netlify.app
+**Demo disponível em:** https://flamboyant-bassi-4e64e0.netlify.app
 
 
 
